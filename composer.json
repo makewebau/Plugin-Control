@@ -1,9 +1,9 @@
 {
-    "name": "makewebau/plugin-control",
+    "name": "makeweb/plugin-control",
     "type": "component",
     "autoload": {
         "psr-4": {
-            "PluginControl\\": "/"
+            "pluginControl\\": "/"
         }
     }
 }
