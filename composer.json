@@ -2,8 +2,8 @@
     "name": "makeweb/plugin-control",
     "type": "component",
     "autoload": {
-        "psr-4": {
-            "pluginControl\\": "/"
-        }
+        "files": [
+            "class-ratchet-plugin-manager.php"
+        ]
     }
 }
